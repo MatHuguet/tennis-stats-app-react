@@ -1,0 +1,18 @@
+button {
+    width: 35%;
+    height: 5rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-block: 5%;
+}
+
+.create-match-btn {
+    background-color: #AC4D18;
+    color: white;
+}
+
+.create-match-btn:hover {
+    background-color: #f56b21;
+}
